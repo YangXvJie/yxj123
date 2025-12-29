@@ -1,0 +1,713 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\obj\\Debug\\.NETFramework,Version=v4.8.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\.NETFramework,Version=v4.8.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|d:\\ugit\\yxj123\\\u9A6C\u672F\\hotfix\\hotfix\\common\\utils\\animatorutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:common\\utils\\animatorutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\rentwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\rentwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\playwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\playwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|d:\\ugit\\yxj123\\\u9A6C\u672F\\hotfix\\hotfix\\ui\\settlementwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\settlementwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\network\\webrequestfuncitons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:network\\webrequestfuncitons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\sharewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\sharewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\mapwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\mapwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\objects\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:objects\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\manager\\ecsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:manager\\ecsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\manager\\serverrequestmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:manager\\serverrequestmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\manager\\userinfomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:manager\\userinfomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\objects\\horseobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:objects\\horseobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\manager\\housemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:manager\\housemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\objects\\otherplayercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:objects\\otherplayercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\commondatawindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\commondatawindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\gamelistwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\gamelistwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\objects\\horsemoveai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:objects\\horsemoveai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\gamedatas\\filesname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:gamedatas\\filesname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\doubletoastwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\doubletoastwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\detailwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\detailwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\passwordinfowindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\passwordinfowindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\growupwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\growupwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\common\\utils\\webrequestutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:common\\utils\\webrequestutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\purchasewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\purchasewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\infoconfirmwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\infoconfirmwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\questionswindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\questionswindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\priceaffirmwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\priceaffirmwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\roomwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\roomwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\loadingwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\loadingwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\common\\utils\\horseutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:common\\utils\\horseutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\selectplayerwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\selectplayerwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\topreparewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\topreparewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\item\\gamelistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\item\\gamelistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\singletoastwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\singletoastwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\objects\\horsebreedobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:objects\\horsebreedobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\orderopenhousewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\orderopenhousewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\addfeedwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\addfeedwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\purchasehorsemilletwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\purchasehorsemilletwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\purchasebreedchargewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\purchasebreedchargewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\propertywindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\propertywindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\exchangehorsemilletwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\exchangehorsemilletwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 268,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "DocumentMoniker": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\obj\\Debug\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "ToolTip": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\obj\\Debug\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "RelativeToolTip": "obj\\Debug\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T13:02:45.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnimatorUtils.cs",
+              "DocumentMoniker": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\Common\\Utils\\AnimatorUtils.cs",
+              "RelativeDocumentMoniker": "Common\\Utils\\AnimatorUtils.cs",
+              "ToolTip": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\Common\\Utils\\AnimatorUtils.cs",
+              "RelativeToolTip": "Common\\Utils\\AnimatorUtils.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:57:27.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HouseManager.cs",
+              "DocumentMoniker": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\Manager\\HouseManager.cs",
+              "RelativeDocumentMoniker": "Manager\\HouseManager.cs",
+              "ToolTip": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\Manager\\HouseManager.cs",
+              "RelativeToolTip": "Manager\\HouseManager.cs",
+              "ViewState": "AQIAAHUBAAAAAAAAAAD4vy4BAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:22.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RentWindow.cs",
+              "DocumentMoniker": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\RentWindow.cs",
+              "RelativeDocumentMoniker": "UI\\RentWindow.cs",
+              "ToolTip": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\RentWindow.cs",
+              "RelativeToolTip": "UI\\RentWindow.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvxoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:22.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CommonDataWindow.cs",
+              "DocumentMoniker": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\CommonDataWindow.cs",
+              "RelativeDocumentMoniker": "UI\\CommonDataWindow.cs",
+              "ToolTip": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\CommonDataWindow.cs",
+              "RelativeToolTip": "UI\\CommonDataWindow.cs",
+              "ViewState": "AQIAAJkCAAAAAAAAAAASwLYCAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:22.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.cs",
+              "DocumentMoniker": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\MainWindow.cs",
+              "RelativeDocumentMoniker": "UI\\MainWindow.cs",
+              "ToolTip": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\MainWindow.cs",
+              "RelativeToolTip": "UI\\MainWindow.cs",
+              "ViewState": "AQIAAPQBAAAAAAAAAAAYwAQCAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:22.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayWindow.cs",
+              "DocumentMoniker": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\PlayWindow.cs",
+              "RelativeDocumentMoniker": "UI\\PlayWindow.cs",
+              "ToolTip": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\PlayWindow.cs",
+              "RelativeToolTip": "UI\\PlayWindow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:23.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShareWindow.cs",
+              "DocumentMoniker": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\ShareWindow.cs",
+              "RelativeDocumentMoniker": "UI\\ShareWindow.cs",
+              "ToolTip": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\ShareWindow.cs",
+              "RelativeToolTip": "UI\\ShareWindow.cs",
+              "ViewState": "AQIAAMIAAAAAAAAAAAAgwPkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:22.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OtherPlayerController.cs",
+              "DocumentMoniker": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\Objects\\OtherPlayerController.cs",
+              "RelativeDocumentMoniker": "Objects\\OtherPlayerController.cs",
+              "ToolTip": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\Objects\\OtherPlayerController.cs",
+              "RelativeToolTip": "Objects\\OtherPlayerController.cs",
+              "ViewState": "AQIAADsBAAAAAAAAAAAswH0BAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:22.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebRequestFuncitons.cs",
+              "DocumentMoniker": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\NetWork\\WebRequestFuncitons.cs",
+              "RelativeDocumentMoniker": "NetWork\\WebRequestFuncitons.cs",
+              "ToolTip": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\NetWork\\WebRequestFuncitons.cs",
+              "RelativeToolTip": "NetWork\\WebRequestFuncitons.cs",
+              "ViewState": "AQIAACUDAAAAAAAAAAAIwDwDAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:22.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SettlementWindow.cs",
+              "DocumentMoniker": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\SettlementWindow.cs",
+              "RelativeDocumentMoniker": "UI\\SettlementWindow.cs",
+              "ToolTip": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\SettlementWindow.cs",
+              "RelativeToolTip": "UI\\SettlementWindow.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAiwHwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:23.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HorseObject.cs",
+              "DocumentMoniker": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\Objects\\HorseObject.cs",
+              "RelativeDocumentMoniker": "Objects\\HorseObject.cs",
+              "ToolTip": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\Objects\\HorseObject.cs",
+              "RelativeToolTip": "Objects\\HorseObject.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAvwCgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:23.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServerRequestManager.cs",
+              "DocumentMoniker": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\Manager\\ServerRequestManager.cs",
+              "RelativeDocumentMoniker": "Manager\\ServerRequestManager.cs",
+              "ToolTip": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\Manager\\ServerRequestManager.cs",
+              "RelativeToolTip": "Manager\\ServerRequestManager.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAewMMAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:23.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\Objects\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Objects\\PlayerController.cs",
+              "ToolTip": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\Objects\\PlayerController.cs",
+              "RelativeToolTip": "Objects\\PlayerController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAADwv2UBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:23.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserInfoManager.cs",
+              "DocumentMoniker": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\Manager\\UserInfoManager.cs",
+              "RelativeDocumentMoniker": "Manager\\UserInfoManager.cs",
+              "ToolTip": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\Manager\\UserInfoManager.cs",
+              "RelativeToolTip": "Manager\\UserInfoManager.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAwCcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:23.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MapWindow.cs",
+              "DocumentMoniker": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\MapWindow.cs",
+              "RelativeDocumentMoniker": "UI\\MapWindow.cs",
+              "ToolTip": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\MapWindow.cs",
+              "RelativeToolTip": "UI\\MapWindow.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:23.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EcsManager.cs",
+              "DocumentMoniker": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\Manager\\EcsManager.cs",
+              "RelativeDocumentMoniker": "Manager\\EcsManager.cs",
+              "ToolTip": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\Manager\\EcsManager.cs",
+              "RelativeToolTip": "Manager\\EcsManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvysAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:23.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FilesName.cs",
+              "DocumentMoniker": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\GameDatas\\FilesName.cs",
+              "RelativeDocumentMoniker": "GameDatas\\FilesName.cs",
+              "ToolTip": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\GameDatas\\FilesName.cs",
+              "RelativeToolTip": "GameDatas\\FilesName.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:23.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HorseMoveAI.cs",
+              "DocumentMoniker": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\Objects\\HorseMoveAI.cs",
+              "RelativeDocumentMoniker": "Objects\\HorseMoveAI.cs",
+              "ToolTip": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\Objects\\HorseMoveAI.cs",
+              "RelativeToolTip": "Objects\\HorseMoveAI.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAvwF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:23.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GameListWindow.cs",
+              "DocumentMoniker": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\GameListWindow.cs",
+              "RelativeDocumentMoniker": "UI\\GameListWindow.cs",
+              "ToolTip": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\GameListWindow.cs",
+              "RelativeToolTip": "UI\\GameListWindow.cs",
+              "ViewState": "AQIAAM4AAAAAAAAAAAAgwLoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:23.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DetailWindow.cs",
+              "DocumentMoniker": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\DetailWindow.cs",
+              "RelativeDocumentMoniker": "UI\\DetailWindow.cs",
+              "ToolTip": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\DetailWindow.cs",
+              "RelativeToolTip": "UI\\DetailWindow.cs",
+              "ViewState": "AQIAAC4DAAAAAAAAAAAhwEQDAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:23.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DoubleToastWindow.cs",
+              "DocumentMoniker": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\DoubleToastWindow.cs",
+              "RelativeDocumentMoniker": "UI\\DoubleToastWindow.cs",
+              "ToolTip": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\DoubleToastWindow.cs",
+              "RelativeToolTip": "UI\\DoubleToastWindow.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAArwFQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:23.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GrowUpWindow.cs",
+              "DocumentMoniker": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\GrowUpWindow.cs",
+              "RelativeDocumentMoniker": "UI\\GrowUpWindow.cs",
+              "ToolTip": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\GrowUpWindow.cs",
+              "RelativeToolTip": "UI\\GrowUpWindow.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwDMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:23.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PasswordInfoWindow.cs",
+              "DocumentMoniker": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\PasswordInfoWindow.cs",
+              "RelativeDocumentMoniker": "UI\\PasswordInfoWindow.cs",
+              "ToolTip": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\PasswordInfoWindow.cs",
+              "RelativeToolTip": "UI\\PasswordInfoWindow.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAAAJ4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:23.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WebRequestUtils.cs",
+              "DocumentMoniker": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\Common\\Utils\\WebRequestUtils.cs",
+              "RelativeDocumentMoniker": "Common\\Utils\\WebRequestUtils.cs",
+              "ToolTip": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\Common\\Utils\\WebRequestUtils.cs",
+              "RelativeToolTip": "Common\\Utils\\WebRequestUtils.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAD4vz0AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:23.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PurchaseWindow.cs",
+              "DocumentMoniker": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\PurchaseWindow.cs",
+              "RelativeDocumentMoniker": "UI\\PurchaseWindow.cs",
+              "ToolTip": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\PurchaseWindow.cs",
+              "RelativeToolTip": "UI\\PurchaseWindow.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAjwCgAAACGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:23.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "InfoConfirmWindow.cs",
+              "DocumentMoniker": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\InfoConfirmWindow.cs",
+              "RelativeDocumentMoniker": "UI\\InfoConfirmWindow.cs",
+              "ToolTip": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\InfoConfirmWindow.cs",
+              "RelativeToolTip": "UI\\InfoConfirmWindow.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:23.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "QuestionsWindow.cs",
+              "DocumentMoniker": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\QuestionsWindow.cs",
+              "RelativeDocumentMoniker": "UI\\QuestionsWindow.cs",
+              "ToolTip": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\QuestionsWindow.cs",
+              "RelativeToolTip": "UI\\QuestionsWindow.cs",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAiwNgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:23.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PriceAffirmWindow.cs",
+              "DocumentMoniker": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\PriceAffirmWindow.cs",
+              "RelativeDocumentMoniker": "UI\\PriceAffirmWindow.cs",
+              "ToolTip": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\PriceAffirmWindow.cs",
+              "RelativeToolTip": "UI\\PriceAffirmWindow.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:23.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RoomWindow.cs",
+              "DocumentMoniker": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\RoomWindow.cs",
+              "RelativeDocumentMoniker": "UI\\RoomWindow.cs",
+              "ToolTip": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\RoomWindow.cs",
+              "RelativeToolTip": "UI\\RoomWindow.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAADwvzYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:23.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoadingWindow.cs",
+              "DocumentMoniker": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\LoadingWindow.cs",
+              "RelativeDocumentMoniker": "UI\\LoadingWindow.cs",
+              "ToolTip": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\LoadingWindow.cs",
+              "RelativeToolTip": "UI\\LoadingWindow.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAQwFIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:23.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HorseUtils.cs",
+              "DocumentMoniker": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\Common\\Utils\\HorseUtils.cs",
+              "RelativeDocumentMoniker": "Common\\Utils\\HorseUtils.cs",
+              "ToolTip": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\Common\\Utils\\HorseUtils.cs",
+              "RelativeToolTip": "Common\\Utils\\HorseUtils.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA0wCUAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:23.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SelectPlayerWindow.cs",
+              "DocumentMoniker": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\SelectPlayerWindow.cs",
+              "RelativeDocumentMoniker": "UI\\SelectPlayerWindow.cs",
+              "ToolTip": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\SelectPlayerWindow.cs",
+              "RelativeToolTip": "UI\\SelectPlayerWindow.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAADwv1sAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:23.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ToPrepareWindow.cs",
+              "DocumentMoniker": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\ToPrepareWindow.cs",
+              "RelativeDocumentMoniker": "UI\\ToPrepareWindow.cs",
+              "ToolTip": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\ToPrepareWindow.cs",
+              "RelativeToolTip": "UI\\ToPrepareWindow.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAowGMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:23.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GameListItem.cs",
+              "DocumentMoniker": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\Item\\GameListItem.cs",
+              "RelativeDocumentMoniker": "UI\\Item\\GameListItem.cs",
+              "ToolTip": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\Item\\GameListItem.cs",
+              "RelativeToolTip": "UI\\Item\\GameListItem.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAADwv1MAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:23.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "HorseBreedObject.cs",
+              "DocumentMoniker": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\Objects\\HorseBreedObject.cs",
+              "RelativeDocumentMoniker": "Objects\\HorseBreedObject.cs",
+              "ToolTip": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\Objects\\HorseBreedObject.cs",
+              "RelativeToolTip": "Objects\\HorseBreedObject.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAkwCwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:23.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SingleToastWindow.cs",
+              "DocumentMoniker": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\SingleToastWindow.cs",
+              "RelativeDocumentMoniker": "UI\\SingleToastWindow.cs",
+              "ToolTip": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\SingleToastWindow.cs",
+              "RelativeToolTip": "UI\\SingleToastWindow.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAwEwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:23.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "OrderOpenHouseWindow.cs",
+              "DocumentMoniker": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\OrderOpenHouseWindow.cs",
+              "RelativeDocumentMoniker": "UI\\OrderOpenHouseWindow.cs",
+              "ToolTip": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\OrderOpenHouseWindow.cs",
+              "RelativeToolTip": "UI\\OrderOpenHouseWindow.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAuwEsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:23.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AddFeedWindow.cs",
+              "DocumentMoniker": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\AddFeedWindow.cs",
+              "RelativeDocumentMoniker": "UI\\AddFeedWindow.cs",
+              "ToolTip": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\AddFeedWindow.cs",
+              "RelativeToolTip": "UI\\AddFeedWindow.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAADwv4AAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:23.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "PurchaseHorseMilletWindow.cs",
+              "DocumentMoniker": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\PurchaseHorseMilletWindow.cs",
+              "RelativeDocumentMoniker": "UI\\PurchaseHorseMilletWindow.cs",
+              "ToolTip": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\PurchaseHorseMilletWindow.cs",
+              "RelativeToolTip": "UI\\PurchaseHorseMilletWindow.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAIwCwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:23.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PurchaseBreedChargeWindow.cs",
+              "DocumentMoniker": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\PurchaseBreedChargeWindow.cs",
+              "RelativeDocumentMoniker": "UI\\PurchaseBreedChargeWindow.cs",
+              "ToolTip": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\PurchaseBreedChargeWindow.cs",
+              "RelativeToolTip": "UI\\PurchaseBreedChargeWindow.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAADwv4YAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:23.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PropertyWindow.cs",
+              "DocumentMoniker": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\PropertyWindow.cs",
+              "RelativeDocumentMoniker": "UI\\PropertyWindow.cs",
+              "ToolTip": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\PropertyWindow.cs",
+              "RelativeToolTip": "UI\\PropertyWindow.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:23.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ExchangeHorseMilletWindow.cs",
+              "DocumentMoniker": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\ExchangeHorseMilletWindow.cs",
+              "RelativeDocumentMoniker": "UI\\ExchangeHorseMilletWindow.cs",
+              "ToolTip": "D:\\UGit\\yxj123\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\ExchangeHorseMilletWindow.cs",
+              "RelativeToolTip": "UI\\ExchangeHorseMilletWindow.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAADwv44AAAChAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:23.402Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
