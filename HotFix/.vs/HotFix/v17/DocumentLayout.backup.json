@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9A6C\u672F\\HotFix\\HotFix\\objects\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:objects\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|d:\\\u9A6C\u672F\\hotfix\\hotfix\\ui\\startwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\startwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9A6C\u672F\\HotFix\\HotFix\\common\\utils\\animatorutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:common\\utils\\animatorutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9A6C\u672F\\HotFix\\HotFix\\objects\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:objects\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9A6C\u672F\\HotFix\\HotFix\\manager\\ecsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -86,36 +86,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 268,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "StartWindow.cs",
               "DocumentMoniker": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\StartWindow.cs",
               "RelativeDocumentMoniker": "UI\\StartWindow.cs",
               "ToolTip": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\StartWindow.cs",
               "RelativeToolTip": "UI\\StartWindow.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowCAAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-05T02:47:43.197Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": ".NETFramework,Version=v4.8.AssemblyAttributes.cs",
-              "DocumentMoniker": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\obj\\Debug\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
-              "RelativeDocumentMoniker": "obj\\Debug\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
-              "ToolTip": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\obj\\Debug\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
-              "RelativeToolTip": "obj\\Debug\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T13:02:45.693Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AnimatorUtils.cs",
               "DocumentMoniker": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\Common\\Utils\\AnimatorUtils.cs",
               "RelativeDocumentMoniker": "Common\\Utils\\AnimatorUtils.cs",
@@ -145,9 +133,10 @@
               "RelativeDocumentMoniker": "UI\\MainWindow.cs",
               "ToolTip": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\MainWindow.cs",
               "RelativeToolTip": "UI\\MainWindow.cs",
-              "ViewState": "AQIAAPQBAAAAAAAAAAAYwAQCAABJAAAA",
+              "ViewState": "AgIAAPQBAAAAAAAAAAAYwAQCAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T12:49:22.766Z"
+              "WhenOpened": "2025-12-26T12:49:22.766Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -163,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "WebRequestFuncitons.cs",
               "DocumentMoniker": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\NetWork\\WebRequestFuncitons.cs",
               "RelativeDocumentMoniker": "NetWork\\WebRequestFuncitons.cs",
@@ -187,6 +176,31 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\Objects\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Objects\\PlayerController.cs",
+              "ToolTip": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\Objects\\PlayerController.cs",
+              "RelativeToolTip": "Objects\\PlayerController.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAiwHMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:23.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "DocumentMoniker": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\obj\\Debug\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "ToolTip": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\obj\\Debug\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "RelativeToolTip": "obj\\Debug\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T13:02:45.693Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
               "Title": "ServerRequestManager.cs",
               "DocumentMoniker": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\Manager\\ServerRequestManager.cs",
@@ -196,18 +210,6 @@
               "ViewState": "AQIAACYAAAAAAAAAAAAewMMAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-26T12:49:23.381Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PlayerController.cs",
-              "DocumentMoniker": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\Objects\\PlayerController.cs",
-              "RelativeDocumentMoniker": "Objects\\PlayerController.cs",
-              "ToolTip": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\Objects\\PlayerController.cs",
-              "RelativeToolTip": "Objects\\PlayerController.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAADwv2UBAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T12:49:23.382Z"
             },
             {
               "$type": "Document",
@@ -247,7 +249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "HorseMoveAI.cs",
               "DocumentMoniker": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\Objects\\HorseMoveAI.cs",
               "RelativeDocumentMoniker": "Objects\\HorseMoveAI.cs",
