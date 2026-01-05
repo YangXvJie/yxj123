@@ -29,38 +29,14 @@ namespace HotFix
             setText = setTextData;
             AddButtonClickListener(startGame, () =>
             {
-                Debug.Log(RFrameWork.instance.token);
-                StartWindow.setText("------正在获取马匹信息------");
-                UserInfoManager.MyHorseList.Clear();
-                UserInfoManager.MyHorseList = new Dictionary<int, HorseData>();
-                HorseData[] list = new HorseData[1] { new HorseData("101", "conde", 0, 100) }; ;
-                int index = 1;
-                foreach (HorseData item in list)
-                {
-                    int id = int.Parse(item.id);
-                    Debug.Log(id + "   " + item.code);
-                    UserInfoManager.MyHorseList.Add(index, item);
-                    index++;
-                }
-                UserInfoManager.NowHorseList.Clear();
-                UserInfoManager.NowHorseList = new Dictionary<int, HorseData>(UserInfoManager.MyHorseList);
-                Debug.Log("进入游戏");
-                // if (UserInfoManager.noHorse)
-                //   return;
-                if (UserInfoManager.Sex == 0)
-                {
-                    UIManager.instance.PopUpWnd(FilesName.SELECTPLAYERPANEL, true, false);
-                }
-                else
-                {
-                    GameMapManager.instance.LoadScene(ConStr.MAINSCENE, FilesName.MAINPANEL, HouseManager.LoadMainScene);
-                }
-                UIManager.instance.CloseWnd(FilesName.STARTPANEL);
-                //WebRequestManager.instance.AsyncLoadUnityWebRequest(WebRequestUtils.checkUserUrl, WebRequestFuncitons.CheckHorseNum, true, "{}", RFrameWork.instance.token);
+                UIManager.instance.PopUpWnd(FilesName.SELECTPLAYERPANEL);
+                UIManager.instance.CloseWnd(this);
+                //Debug.Log(RFrameWork.instance.token);
+               // WebRequestManager.instance.AsyncLoadUnityWebRequest(WebRequestUtils.checkUserUrl, WebRequestFuncitons.CheckHorseNum, true, "{}", RFrameWork.instance.token);
                 startGame.interactable = false;
                 text.text = "------开始加载------";
             });
-            }
+        }
 
         private void setTextData(string obj)
         {
