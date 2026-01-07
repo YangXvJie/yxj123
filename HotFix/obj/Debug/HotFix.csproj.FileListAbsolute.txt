@@ -173,3 +173,10 @@ C:\Users\19505\Desktop\马术\HotFix\HotFix\obj\Debug\HotFix.csproj.CoreCompileI
 C:\Users\19505\Desktop\马术\HotFix\HotFix\obj\Debug\HotFix.csproj.Up2Date
 C:\Users\19505\Desktop\马术\HotFix\HotFix\obj\Debug\HotFix.dll
 C:\Users\19505\Desktop\马术\HotFix\HotFix\obj\Debug\HotFix.pdb
+D:\项目\马术\HotFix\HotFix\bin\Debug\HotFix.dll
+D:\项目\马术\HotFix\HotFix\bin\Debug\HotFix.pdb
+D:\项目\马术\HotFix\HotFix\obj\Debug\HotFix.csproj.AssemblyReference.cache
+D:\项目\马术\HotFix\HotFix\obj\Debug\HotFix.csproj.CoreCompileInputs.cache
+D:\项目\马术\HotFix\HotFix\obj\Debug\HotFix.csproj.Up2Date
+D:\项目\马术\HotFix\HotFix\obj\Debug\HotFix.dll
+D:\项目\马术\HotFix\HotFix\obj\Debug\HotFix.pdb
