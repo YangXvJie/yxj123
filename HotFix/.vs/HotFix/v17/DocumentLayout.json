@@ -1,109 +1,109 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\",
+  "WorkspaceRootPath": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|d:\\\u9A6C\u672F\\hotfix\\hotfix\\ui\\horsefeedwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\horsefeedwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\rentwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\rentwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\mapwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\mapwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9A6C\u672F\\HotFix\\HotFix\\common\\utils\\horseutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:common\\utils\\horseutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9A6C\u672F\\HotFix\\HotFix\\common\\utils\\webrequestutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:common\\utils\\webrequestutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9A6C\u672F\\HotFix\\HotFix\\objects\\horsemoveai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:objects\\horsemoveai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9A6C\u672F\\HotFix\\HotFix\\gamedatas\\filesname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:gamedatas\\filesname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9A6C\u672F\\HotFix\\HotFix\\objects\\horseobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:objects\\horseobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9A6C\u672F\\HotFix\\HotFix\\objects\\horsebreedobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:objects\\horsebreedobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|d:\\\u9A6C\u672F\\hotfix\\hotfix\\ui\\sharewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\sharewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9A6C\u672F\\HotFix\\HotFix\\manager\\housemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:manager\\housemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9A6C\u672F\\HotFix\\HotFix\\objects\\otherplayercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:objects\\otherplayercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9A6C\u672F\\HotFix\\HotFix\\manager\\messagecentereventid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:manager\\messagecentereventid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9A6C\u672F\\HotFix\\HotFix\\network\\webrequestfuncitons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:network\\webrequestfuncitons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u9A6C\u672F\\HotFix\\HotFix\\obj\\Debug\\.NETFramework,Version=v4.8.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\.NETFramework,Version=v4.8.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\startwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\rentwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\rentwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\mapwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\mapwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|d:\\\u9879\u76EE\\\u9A6C\u672F\\hotfix\\hotfix\\ui\\horsefeedwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\horsefeedwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\common\\utils\\horseutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:common\\utils\\horseutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\common\\utils\\webrequestutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:common\\utils\\webrequestutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\objects\\horsemoveai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:objects\\horsemoveai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\gamedatas\\filesname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:gamedatas\\filesname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\objects\\horseobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:objects\\horseobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\objects\\horsebreedobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:objects\\horsebreedobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\sharewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\sharewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\manager\\housemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:manager\\housemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\objects\\otherplayercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:objects\\otherplayercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\manager\\messagecentereventid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:manager\\messagecentereventid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\network\\webrequestfuncitons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:network\\webrequestfuncitons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\obj\\Debug\\.NETFramework,Version=v4.8.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\.NETFramework,Version=v4.8.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\startwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\startwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9A6C\u672F\\HotFix\\HotFix\\manager\\serverrequestmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\manager\\serverrequestmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:manager\\serverrequestmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\loadingwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\loadingwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\loadingwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9A6C\u672F\\HotFix\\HotFix\\objects\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\objects\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:objects\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9A6C\u672F\\HotFix\\HotFix\\manager\\toolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\manager\\toolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:manager\\toolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9A6C\u672F\\HotFix\\HotFix\\manager\\purchasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\manager\\purchasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:manager\\purchasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\selectplayerwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\selectplayerwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\selectplayerwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9A6C\u672F\\HotFix\\HotFix\\common\\utils\\animatorutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\common\\utils\\animatorutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:common\\utils\\animatorutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9A6C\u672F\\HotFix\\HotFix\\manager\\ecsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\manager\\ecsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:manager\\ecsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9A6C\u672F\\HotFix\\HotFix\\manager\\userinfomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\manager\\userinfomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:manager\\userinfomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -114,16 +114,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 268,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "HorseFeedWindow.cs",
-              "DocumentMoniker": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\HorseFeedWindow.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\HorseFeedWindow.cs",
               "RelativeDocumentMoniker": "UI\\HorseFeedWindow.cs",
-              "ToolTip": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\HorseFeedWindow.cs*",
-              "RelativeToolTip": "UI\\HorseFeedWindow.cs*",
+              "ToolTip": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\HorseFeedWindow.cs",
+              "RelativeToolTip": "UI\\HorseFeedWindow.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAcwBwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-07T10:25:28.218Z",
@@ -131,11 +131,98 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HouseManager.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\Manager\\HouseManager.cs",
+              "RelativeDocumentMoniker": "Manager\\HouseManager.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\Manager\\HouseManager.cs",
+              "RelativeToolTip": "Manager\\HouseManager.cs",
+              "ViewState": "AgIAAHUBAAAAAAAAAAD4vy4BAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:22.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShareWindow.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\ShareWindow.cs",
+              "RelativeDocumentMoniker": "UI\\ShareWindow.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\ShareWindow.cs",
+              "RelativeToolTip": "UI\\ShareWindow.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T07:54:38.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RentWindow.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\RentWindow.cs",
+              "RelativeDocumentMoniker": "UI\\RentWindow.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\RentWindow.cs",
+              "RelativeToolTip": "UI\\RentWindow.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T06:50:44.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": ".NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\obj\\Debug\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\obj\\Debug\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "RelativeToolTip": "obj\\Debug\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T13:02:45.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\MainWindow.cs",
+              "RelativeDocumentMoniker": "UI\\MainWindow.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\MainWindow.cs",
+              "RelativeToolTip": "UI\\MainWindow.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAuwLsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:22.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MapWindow.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\MapWindow.cs",
+              "RelativeDocumentMoniker": "UI\\MapWindow.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\MapWindow.cs",
+              "RelativeToolTip": "UI\\MapWindow.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T05:41:00.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "OtherPlayerController.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\Objects\\OtherPlayerController.cs",
+              "RelativeDocumentMoniker": "Objects\\OtherPlayerController.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\Objects\\OtherPlayerController.cs",
+              "RelativeToolTip": "Objects\\OtherPlayerController.cs",
+              "ViewState": "AgIAADsBAAAAAAAAAAAswH0BAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:22.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "MessageCenterEventID.cs",
-              "DocumentMoniker": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\Manager\\MessageCenterEventID.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\Manager\\MessageCenterEventID.cs",
               "RelativeDocumentMoniker": "Manager\\MessageCenterEventID.cs",
-              "ToolTip": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\Manager\\MessageCenterEventID.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\Manager\\MessageCenterEventID.cs",
               "RelativeToolTip": "Manager\\MessageCenterEventID.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -143,76 +230,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "OtherPlayerController.cs",
-              "DocumentMoniker": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\Objects\\OtherPlayerController.cs",
-              "RelativeDocumentMoniker": "Objects\\OtherPlayerController.cs",
-              "ToolTip": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\Objects\\OtherPlayerController.cs",
-              "RelativeToolTip": "Objects\\OtherPlayerController.cs",
-              "ViewState": "AgIAADsBAAAAAAAAAAAswH0BAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T12:49:22.766Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "HouseManager.cs",
-              "DocumentMoniker": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\Manager\\HouseManager.cs",
-              "RelativeDocumentMoniker": "Manager\\HouseManager.cs",
-              "ToolTip": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\Manager\\HouseManager.cs",
-              "RelativeToolTip": "Manager\\HouseManager.cs",
-              "ViewState": "AgIAAHUBAAAAAAAAAAD4vy4BAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T12:49:22.763Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ShareWindow.cs",
-              "DocumentMoniker": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\ShareWindow.cs",
-              "RelativeDocumentMoniker": "UI\\ShareWindow.cs",
-              "ToolTip": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\ShareWindow.cs",
-              "RelativeToolTip": "UI\\ShareWindow.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAswBsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T07:54:38.137Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RentWindow.cs",
-              "DocumentMoniker": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\RentWindow.cs",
-              "RelativeDocumentMoniker": "UI\\RentWindow.cs",
-              "ToolTip": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\RentWindow.cs",
-              "RelativeToolTip": "UI\\RentWindow.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAywBsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T06:50:44.142Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": ".NETFramework,Version=v4.8.AssemblyAttributes.cs",
-              "DocumentMoniker": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\obj\\Debug\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
-              "RelativeDocumentMoniker": "obj\\Debug\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
-              "ToolTip": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\obj\\Debug\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
-              "RelativeToolTip": "obj\\Debug\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T13:02:45.693Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 16,
               "Title": "StartWindow.cs",
-              "DocumentMoniker": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\StartWindow.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\StartWindow.cs",
               "RelativeDocumentMoniker": "UI\\StartWindow.cs",
-              "ToolTip": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\StartWindow.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\StartWindow.cs",
               "RelativeToolTip": "UI\\StartWindow.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAAACIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -220,23 +242,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "MainWindow.cs",
-              "DocumentMoniker": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\MainWindow.cs",
-              "RelativeDocumentMoniker": "UI\\MainWindow.cs",
-              "ToolTip": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\MainWindow.cs",
-              "RelativeToolTip": "UI\\MainWindow.cs",
-              "ViewState": "AgIAAC8CAAAAAAAAAAAgwEACAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T12:49:22.766Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 17,
               "Title": "ServerRequestManager.cs",
-              "DocumentMoniker": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\Manager\\ServerRequestManager.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\Manager\\ServerRequestManager.cs",
               "RelativeDocumentMoniker": "Manager\\ServerRequestManager.cs",
-              "ToolTip": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\Manager\\ServerRequestManager.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\Manager\\ServerRequestManager.cs",
               "RelativeToolTip": "Manager\\ServerRequestManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -246,9 +256,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "LoadingWindow.cs",
-              "DocumentMoniker": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\LoadingWindow.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\LoadingWindow.cs",
               "RelativeDocumentMoniker": "UI\\LoadingWindow.cs",
-              "ToolTip": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\LoadingWindow.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\LoadingWindow.cs",
               "RelativeToolTip": "UI\\LoadingWindow.cs",
               "ViewState": "AgIAAEUAAAAAAAAAAAAQwFIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -256,24 +266,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MapWindow.cs",
-              "DocumentMoniker": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\MapWindow.cs",
-              "RelativeDocumentMoniker": "UI\\MapWindow.cs",
-              "ToolTip": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\MapWindow.cs",
-              "RelativeToolTip": "UI\\MapWindow.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T05:41:00.183Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 19,
               "Title": "PlayerController.cs",
-              "DocumentMoniker": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\Objects\\PlayerController.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\Objects\\PlayerController.cs",
               "RelativeDocumentMoniker": "Objects\\PlayerController.cs",
-              "ToolTip": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\Objects\\PlayerController.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\Objects\\PlayerController.cs",
               "RelativeToolTip": "Objects\\PlayerController.cs",
               "ViewState": "AgIAAFICAAAAAAAAAAAIwGICAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -281,11 +278,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "WebRequestFuncitons.cs",
-              "DocumentMoniker": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\NetWork\\WebRequestFuncitons.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\NetWork\\WebRequestFuncitons.cs",
               "RelativeDocumentMoniker": "NetWork\\WebRequestFuncitons.cs",
-              "ToolTip": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\NetWork\\WebRequestFuncitons.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\NetWork\\WebRequestFuncitons.cs",
               "RelativeToolTip": "NetWork\\WebRequestFuncitons.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -295,9 +292,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "PurchaseManager.cs",
-              "DocumentMoniker": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\Manager\\PurchaseManager.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\Manager\\PurchaseManager.cs",
               "RelativeDocumentMoniker": "Manager\\PurchaseManager.cs",
-              "ToolTip": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\Manager\\PurchaseManager.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\Manager\\PurchaseManager.cs",
               "RelativeToolTip": "Manager\\PurchaseManager.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAAACMAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -307,9 +304,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "ToolManager.cs",
-              "DocumentMoniker": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\Manager\\ToolManager.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\Manager\\ToolManager.cs",
               "RelativeDocumentMoniker": "Manager\\ToolManager.cs",
-              "ToolTip": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\Manager\\ToolManager.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\Manager\\ToolManager.cs",
               "RelativeToolTip": "Manager\\ToolManager.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -319,9 +316,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "SelectPlayerWindow.cs",
-              "DocumentMoniker": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\SelectPlayerWindow.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\SelectPlayerWindow.cs",
               "RelativeDocumentMoniker": "UI\\SelectPlayerWindow.cs",
-              "ToolTip": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\SelectPlayerWindow.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\SelectPlayerWindow.cs",
               "RelativeToolTip": "UI\\SelectPlayerWindow.cs",
               "ViewState": "AgIAAGAAAAAAAAAAAAAAAGAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -329,37 +326,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "HorseBreedObject.cs",
-              "DocumentMoniker": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\Objects\\HorseBreedObject.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\Objects\\HorseBreedObject.cs",
               "RelativeDocumentMoniker": "Objects\\HorseBreedObject.cs",
-              "ToolTip": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\Objects\\HorseBreedObject.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\Objects\\HorseBreedObject.cs",
               "RelativeToolTip": "Objects\\HorseBreedObject.cs",
               "ViewState": "AgIAAEIAAAAAAAAAAAAAAEIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T12:49:23.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-26T12:49:23.396Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "HorseObject.cs",
-              "DocumentMoniker": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\Objects\\HorseObject.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\Objects\\HorseObject.cs",
               "RelativeDocumentMoniker": "Objects\\HorseObject.cs",
-              "ToolTip": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\Objects\\HorseObject.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\Objects\\HorseObject.cs",
               "RelativeToolTip": "Objects\\HorseObject.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAArwCgAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T12:49:23.379Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-26T12:49:23.379Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "AnimatorUtils.cs",
-              "DocumentMoniker": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\Common\\Utils\\AnimatorUtils.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\Common\\Utils\\AnimatorUtils.cs",
               "RelativeDocumentMoniker": "Common\\Utils\\AnimatorUtils.cs",
-              "ToolTip": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\Common\\Utils\\AnimatorUtils.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\Common\\Utils\\AnimatorUtils.cs",
               "RelativeToolTip": "Common\\Utils\\AnimatorUtils.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -369,9 +364,9 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "UserInfoManager.cs",
-              "DocumentMoniker": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\Manager\\UserInfoManager.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\Manager\\UserInfoManager.cs",
               "RelativeDocumentMoniker": "Manager\\UserInfoManager.cs",
-              "ToolTip": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\Manager\\UserInfoManager.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\Manager\\UserInfoManager.cs",
               "RelativeToolTip": "Manager\\UserInfoManager.cs",
               "ViewState": "AQIAACkAAAAAAAAAAAAAwCcAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -381,9 +376,9 @@
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "EcsManager.cs",
-              "DocumentMoniker": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\Manager\\EcsManager.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\Manager\\EcsManager.cs",
               "RelativeDocumentMoniker": "Manager\\EcsManager.cs",
-              "ToolTip": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\Manager\\EcsManager.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\Manager\\EcsManager.cs",
               "RelativeToolTip": "Manager\\EcsManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvysAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -391,55 +386,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "FilesName.cs",
-              "DocumentMoniker": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\GameDatas\\FilesName.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\GameDatas\\FilesName.cs",
               "RelativeDocumentMoniker": "GameDatas\\FilesName.cs",
-              "ToolTip": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\GameDatas\\FilesName.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\GameDatas\\FilesName.cs",
               "RelativeToolTip": "GameDatas\\FilesName.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwCMAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T12:49:23.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-26T12:49:23.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HorseMoveAI.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\Objects\\HorseMoveAI.cs",
+              "RelativeDocumentMoniker": "Objects\\HorseMoveAI.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\Objects\\HorseMoveAI.cs",
+              "RelativeToolTip": "Objects\\HorseMoveAI.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAvwCMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:49:23.385Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "HorseMoveAI.cs",
-              "DocumentMoniker": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\Objects\\HorseMoveAI.cs",
-              "RelativeDocumentMoniker": "Objects\\HorseMoveAI.cs",
-              "ToolTip": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\Objects\\HorseMoveAI.cs",
-              "RelativeToolTip": "Objects\\HorseMoveAI.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAvwCMAAAAeAAAAAAAAAA==",
+              "Title": "WebRequestUtils.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\Common\\Utils\\WebRequestUtils.cs",
+              "RelativeDocumentMoniker": "Common\\Utils\\WebRequestUtils.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\Common\\Utils\\WebRequestUtils.cs",
+              "RelativeToolTip": "Common\\Utils\\WebRequestUtils.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAD4vz0AAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T12:49:23.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-26T12:49:23.389Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "WebRequestUtils.cs",
-              "DocumentMoniker": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\Common\\Utils\\WebRequestUtils.cs",
-              "RelativeDocumentMoniker": "Common\\Utils\\WebRequestUtils.cs",
-              "ToolTip": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\Common\\Utils\\WebRequestUtils.cs",
-              "RelativeToolTip": "Common\\Utils\\WebRequestUtils.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAD4vz0AAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T12:49:23.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "HorseUtils.cs",
-              "DocumentMoniker": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\Common\\Utils\\HorseUtils.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\Common\\Utils\\HorseUtils.cs",
               "RelativeDocumentMoniker": "Common\\Utils\\HorseUtils.cs",
-              "ToolTip": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\Common\\Utils\\HorseUtils.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\\u9A6C\u672F\\HotFix\\HotFix\\Common\\Utils\\HorseUtils.cs",
               "RelativeToolTip": "Common\\Utils\\HorseUtils.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAQwCMAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T12:49:23.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-26T12:49:23.394Z"
             }
           ]
         }
