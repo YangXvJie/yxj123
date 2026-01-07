@@ -18,11 +18,13 @@ namespace HotFix
         RawImage rapImage;
 
         Camera camera;
-
+        RenderTexture rt = new RenderTexture(520, 520, 20, RenderTextureFormat.ARGB32);
         public override void Awake(object param1 = null, object param2 = null, object param3 = null)
         {
             GatAllComponent();
             AddAllBtnListener();
+            camera.targetTexture = rt;
+            rapImage.texture = rt;
         }
 
         void AddAllBtnListener()
