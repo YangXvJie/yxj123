@@ -4,3 +4,5 @@ HotFix/.idea
 HotFix/bin
 
  
+*.cs
+HotFix/obj/Debug/HotFix.csproj.Up2Date
