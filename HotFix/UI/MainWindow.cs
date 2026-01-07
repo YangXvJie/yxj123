@@ -185,8 +185,10 @@ namespace HotFix
 
         private void SharePicFunc()
         {
+            ShareWindow shareWindow = new ShareWindow();
+            shareWindow.ShareBtn();
             //ToolManager.ShareMsgToApp(m_Transform.GetComponent<RectTransform>());
-            UserInfoManager.rankStr = "邀请您下载元年app体验「马术元宇宙」";
+            //UserInfoManager.rankStr = "邀请您下载元年app体验「马术元宇宙」";
             //webrequestmananger.instance.AsyncLoadUnityWebRequest(WebRequestUtils.myInvite, WebRequestFuncitons.ShareFunc, true, "{}", RFrameWork.instance.token);
         }
 
