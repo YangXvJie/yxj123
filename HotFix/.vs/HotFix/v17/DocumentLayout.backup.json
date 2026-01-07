@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\rentwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\rentwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\mapwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\mapwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|d:\\\u9A6C\u672F\\hotfix\\hotfix\\ui\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\rentwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\rentwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9A6C\u672F\\HotFix\\HotFix\\gamedatas\\filesname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\startwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\startwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\mapwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\mapwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\\u9A6C\u672F\\HotFix\\HotFix\\ui\\selectplayerwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -106,17 +106,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 268,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "RentWindow.cs",
               "DocumentMoniker": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\RentWindow.cs",
               "RelativeDocumentMoniker": "UI\\RentWindow.cs",
               "ToolTip": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\RentWindow.cs",
               "RelativeToolTip": "UI\\RentWindow.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-07T06:27:38.572Z",
               "EditorCaption": ""
@@ -129,14 +129,14 @@
               "RelativeDocumentMoniker": "UI\\MainWindow.cs",
               "ToolTip": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\MainWindow.cs",
               "RelativeToolTip": "UI\\MainWindow.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAALMAAAAAAAAAAAAjwAkAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-26T12:49:22.766Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "StartWindow.cs",
               "DocumentMoniker": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\StartWindow.cs",
               "RelativeDocumentMoniker": "UI\\StartWindow.cs",
@@ -184,19 +184,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "MapWindow.cs",
               "DocumentMoniker": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\MapWindow.cs",
               "RelativeDocumentMoniker": "UI\\MapWindow.cs",
               "ToolTip": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\UI\\MapWindow.cs",
               "RelativeToolTip": "UI\\MapWindow.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T05:41:00.183Z"
+              "WhenOpened": "2026-01-06T05:41:00.183Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "FilesName.cs",
               "DocumentMoniker": "D:\\\u9A6C\u672F\\HotFix\\HotFix\\GameDatas\\FilesName.cs",
               "RelativeDocumentMoniker": "GameDatas\\FilesName.cs",
